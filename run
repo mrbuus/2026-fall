@@ -1,0 +1,64 @@
+#!/bin/bash
+# Compile one standalone C exercise and optionally run it with terminal input.
+set -euo pipefail
+
+project_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+mode=run
+case "${1:-}" in
+    --build) mode=build; shift ;;
+    --debug) mode=debug; shift ;;
+    -h|--help)
+        printf '%s\n' 'Хэрэглээ:' '  ./run                       C файлаа жагсаалтаас сонгох' '  ./run зам/файл.c [аргумент]' '  ./run --build зам/файл.c     Зөвхөн хөрвүүлэх' '  ./run --debug зам/файл.c     LLDB debugger нээх'
+        exit 0 ;;
+esac
+
+if [ "$#" -eq 0 ]; then
+    files=()
+    while IFS= read -r -d '' candidate; do
+        files+=("$candidate")
+    done < <(find "$project_dir/03_Код" -type f -name '*.c' -print0)
+    if [ "${#files[@]}" -eq 0 ]; then
+        printf '03_Код хавтаст C файл алга. ./run зам/файл.c гэж ажиллуулна уу.\n' >&2
+        exit 2
+    fi
+    printf 'Ажиллуулах C файлаа сонгоно уу:\n'
+    for ((i=0; i<${#files[@]}; i++)); do
+        printf '  %d) %s\n' "$((i+1))" "${files[$i]#"$project_dir/"}"
+    done
+    printf 'Дугаар: '
+    IFS= read -r choice || exit 2
+    if [[ ! "$choice" =~ ^[1-9][0-9]{0,5}$ ]] || [ "$choice" -gt "${#files[@]}" ]; then
+        printf 'Жагсаалтад байгаа дугаарыг оруулна уу.\n' >&2
+        exit 2
+    fi
+    source_file="${files[$((choice-1))]}"
+else
+    source_file="$1"
+    shift
+fi
+
+if [[ "$source_file" != *.c ]] || [ ! -f "$source_file" ]; then
+    printf 'Алдаа: хадгалсан .c файл сонгоно уу: %s\n' "$source_file" >&2
+    printf 'VS Code-д C файлын табыг идэвхжүүлээд дахин ажиллуулна уу, эсвэл терминалд ./run гэж бичнэ үү.\n' >&2
+    exit 2
+fi
+
+source_dir="$(cd -- "$(dirname -- "$source_file")" && pwd)"
+source_name="$(basename -- "$source_file")"
+source_file="$source_dir/$source_name"
+output_dir="$source_dir/.build"
+binary="$output_dir/${source_name%.c}"
+mkdir -p -- "$output_dir"
+
+printf 'Хөрвүүлж байна: %s\n' "$source_name" >&2
+/usr/bin/clang -std=c17 -Wall -Wextra -Wpedantic -g -O0 "$source_file" -o "$binary" -lm
+
+if [ "$mode" = build ]; then
+    printf 'Бэлэн: %s\n' "$binary"
+elif [ "$mode" = debug ]; then
+    cd -- "$source_dir"
+    exec /usr/bin/lldb -- "$binary" "$@"
+else
+    cd -- "$source_dir"
+    exec "$binary" "$@"
+fi

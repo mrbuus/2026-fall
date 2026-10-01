@@ -1,0 +1,622 @@
+[
+ {
+  "name": "Оршил",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/forum/view.php?id=195450",
+    "title": "Мэдээ"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195481",
+    "title": "лекц 1"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195452",
+    "title": "НЭМЭЛТ ОНОО File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195455",
+    "title": "Бие даалтын ажлын тайлан бичих заавар File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195457",
+    "title": "Хичээлийн хөтөлбөр File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195458",
+    "title": "Хичээлийн тухай Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/url/view.php?id=195460",
+    "title": "DEV C++ URL"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195461",
+    "title": "Code Blocks - Ашиглагдах програмчлалын нэгдсэн орчин Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195463",
+    "title": "1. C How To Program File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195464",
+    "title": "2. The C Programming Language File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195465",
+    "title": "3. The C Book File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195466",
+    "title": "4. Fundamentals of C Programming File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195467",
+    "title": "Компьютерийн түүх - Breif History of Computers File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195468",
+    "title": "Си хэлтэй холбоотой материалууд Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195469",
+    "title": "Хичээлээс гадуур ашиглаж болох вэб сайт Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195470",
+    "title": "C Style of Programming File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195471",
+    "title": "Програмчлалын хэлний түүх File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195472",
+    "title": "Информатика А. С. Грошев File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195473",
+    "title": "Гарын авлага File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195475",
+    "title": "Лекцийн үзүүлэн 01 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195476",
+    "title": "Лекц №1 /Видео хичээл/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195477",
+    "title": "Лекцийн үзүүлэн 02 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195478",
+    "title": "Лекц №2 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195479",
+    "title": "Лекцийн үзүүлэн 03 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195480",
+    "title": "Лекц №3 /Видео/ Page"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 1.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195481",
+    "title": "Лекц 1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195482",
+    "title": "Lecture slides 1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195483",
+    "title": "Лекц №1 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195484",
+    "title": "Лабораторийн ажил №1-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195485",
+    "title": "Лабораторийн ажил №1-2 File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 2.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195486",
+    "title": "Лекц 2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195487",
+    "title": "Lecture slides 2-5 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195488",
+    "title": "Лекц №2 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195489",
+    "title": "Лабораторийн ажил №2-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195490",
+    "title": "Лабораторийн ажил №2-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195491",
+    "title": "Лаборатори №2 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195493",
+    "title": "Өөрийгөө сорих тест 2 Quiz"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 3.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195494",
+    "title": "Лекц 3 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195495",
+    "title": "Lecture slides 3 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195496",
+    "title": "Лекц №3 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195497",
+    "title": "Лабораторийн ажил №3-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195498",
+    "title": "Лабораторийн ажил №3-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195500",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195501",
+    "title": "Slideshare дээрх нэмэлт материал Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195502",
+    "title": "Видео хичээл 1 -Квадрат тэгшитгэл бодох Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195503",
+    "title": "Видео хичээл 2 - Тооны машин Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195504",
+    "title": "Видео хичээл 3 - MATH.H толгой файл Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195505",
+    "title": "Видео хичээл 4 - Нөхцөл давталт Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195506",
+    "title": "Видео хичээл 5 - FOR давталт Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195507",
+    "title": "Өөрийгөө сорих тест 3 Quiz"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 4.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195508",
+    "title": "Лекц 4 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195509",
+    "title": "Lecture slides 4 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195510",
+    "title": "Лабораторийн ажил №4-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195511",
+    "title": "Лабораторийн ажил №4-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195513",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195514",
+    "title": "Видео хичээл 6 - Функц ашиглах Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195515",
+    "title": "Өөрийгөө сорих тест 4 функц Quiz"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 5.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195516",
+    "title": "Лекц 5 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195517",
+    "title": "Lecture slides 5 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195518",
+    "title": "Лабораторийн ажил №5-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195519",
+    "title": "Лабораторийн ажил №5-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/assign/view.php?id=195520",
+    "title": "1,2,3,4,5-р лабораторийн дутуу бодлогуудыг илгээх хэсэг Assignment"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/assign/view.php?id=195492",
+    "title": "Бие даалтын ажил №1 /Илгээх/ Assignment"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195523",
+    "title": "Өөрийгөө сорих тест 5 массив Quiz"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195524",
+    "title": "Лекц дээр бичсэн жишээ кодууд Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195525",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195526",
+    "title": "Видео хичээл 7- Нэг хэмжээст массив Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195527",
+    "title": "Видео хичээл 8 - Хоёр хэмжээст массив Page"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 6.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195528",
+    "title": "Лекц 6 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195529",
+    "title": "Lecture slides 6 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195530",
+    "title": "Лекц №6 /видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195531",
+    "title": "Лабораторийн ажил №6-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195532",
+    "title": "Лабораторийн ажил №6-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195534",
+    "title": "Өөрийгөө сорих тест 6 Quiz"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195535",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195536",
+    "title": "Видео хичээл 9 - Заагч Page"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 7.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195537",
+    "title": "Лекц 7 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195538",
+    "title": "Lecture slides 7 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195539",
+    "title": "Лабораторийн ажил №7-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195540",
+    "title": "Лабораторийн ажил №7-2 /жишээ / File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195541",
+    "title": "Лабораторийн ажил №7-3 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195543",
+    "title": "Лекц 7 дээр хийсэн жишээ програмууд File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195544",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195545",
+    "title": "Видео хичээл 10 - Switch (cонголтын оператор) Page"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 8.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195549",
+    "title": "Лекц 8 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195550",
+    "title": "Lecture slides 8 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195551",
+    "title": "Лабораторийн ажил №8-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195552",
+    "title": "Лабораторийн ажил №8-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195553",
+    "title": "Лабораторийн ажил №8-3 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/assign/view.php?id=195521",
+    "title": "Бие даалтын ажил №2 илгээх Assignment"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195555",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195556",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195557",
+    "title": "Task54 solution File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 9.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195558",
+    "title": "Лекц 9 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195559",
+    "title": "Lecture slides 9 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195560",
+    "title": "Лекц №9 /Видео / бүтэц нэгдэл Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195561",
+    "title": "Лабораторийн ажил №9-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195562",
+    "title": "Лабораторийн ажил №9-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195563",
+    "title": "Лаборатори №9 /Видео/ Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195565",
+    "title": "Өөрийгөө сорих тест /Хичээл №9/ Quiz"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195566",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195567",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195568",
+    "title": "Шугаман тэгшитгэлийн систем File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195569",
+    "title": "Тэмдэгт мөр дээр заагчийг ашиглах /Жишээ/ File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 10.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195570",
+    "title": "Лекц 10 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195571",
+    "title": "Lecture slides 10 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195572",
+    "title": "Лабораторийн ажил №10-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195573",
+    "title": "Лабораторийн ажил №10-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195574",
+    "title": "Лабораторийн ажил №10-3 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195575",
+    "title": "Лабораторийн ажил №10-4 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195577",
+    "title": "Өөрийгөө сорих тест /Хичээл №10/ Quiz"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/page/view.php?id=195578",
+    "title": "Видео хичээл 11 - Файлтай ажиллах Page"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195579",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195580",
+    "title": "Лекцийн жишээ 1 - Файлаас уншиж бодох File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195581",
+    "title": "Лекцийн жишээ 2 - Толь бичгийн програм File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 11.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195582",
+    "title": "Лекц 11 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195583",
+    "title": "Лабораторийн ажил №11-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195584",
+    "title": "Лабораторийн ажил №11-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195586",
+    "title": "Жишээ програм Folder"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195587",
+    "title": "Онгоц буудах тоглоом File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195588",
+    "title": "Өөрийгөө сорих тест №11 Quiz"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 12.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195589",
+    "title": "Лекц 12 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195590",
+    "title": "Лабораторийн ажил №12-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195591",
+    "title": "Лабораторийн ажил №12-2 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195592",
+    "title": "Лаборатори №12 /Жишээ/ File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/quiz/view.php?id=195594",
+    "title": "Өөрийгөө сорих тест /Хичээл №12/ Quiz"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195596",
+    "title": "Програмын ажиллах хугацааг шалгах програм File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/folder/view.php?id=195597",
+    "title": "Жишээ програм Folder"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 13.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195598",
+    "title": "Лабораторийн ажил №13-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195599",
+    "title": "Лабораторийн ажил №13-2 File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 14.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195601",
+    "title": "Python хэлний танилцуулга, суулгах заавар File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195602",
+    "title": "Лабораторийн ажил №14-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195603",
+    "title": "Лабораторийн ажил №14-2 File"
+   }
+  ]
+ },
+ {
+  "name": "Хичээл 15.",
+  "acts": [
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195604",
+    "title": "Лабораторийн ажил №15-1 File"
+   },
+   {
+    "url": "https://elearn.sict.edu.mn/mod/resource/view.php?id=195605",
+    "title": "Лабораторийн ажил №15-2 File"
+   }
+  ]
+ }
+]
