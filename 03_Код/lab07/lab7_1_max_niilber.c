@@ -22,9 +22,9 @@ int main()
     f1 = ih(A, B);
     f2 = niilber(N);
 
-    printf("Ф1 = %d\n", f1);
-    printf("Ф2 = %d\n", f2);
-    printf("Ф1 + Ф2 = %d\n", f1 + f2);
+    printf("F1 = %d\n", f1);
+    printf("F2 = %d\n", f2);
+    printf("F1 + F2 = %d\n", f1 + f2);
 
     return 0;
 }
